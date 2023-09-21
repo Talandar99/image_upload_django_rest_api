@@ -1,3 +1,4 @@
 image_upload/image_upload/__pycache__/
-image_upload/api/__pycache__/
+image_upload/customer/__pycache__/
+image_upload/customer/migrations/
 pgdata/
